@@ -10,6 +10,7 @@ public class NewTest {
 	{
 		System.out.println("Before method");
 		System.out.println("Test Case-3");
+		System.out.println("Test Case-3");
 	}
 	@Test
 	public void testCase1()
